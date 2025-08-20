@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Build results
+dist/
+build/
+*.spec
+
+# Dataset (kalau ada)
+dataset/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
